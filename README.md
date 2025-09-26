@@ -11,7 +11,7 @@ I'm a Cloud Engineer specifically a DevOps. I'm passionate about learning, shari
 - 🌱 I’m currently learning Bash Scripting, Ansible, AWS Cloud Service, Terraform, and Docker.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: SysAdmin or DevOps (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing farmerpisco@gmail.com.
 
 ---
 
